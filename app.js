@@ -22,6 +22,10 @@ app.get('/', (req, res, next) => {
     res.render('index.pug', {projects: projects});
 })
 
+app.get('/about', (req, res, next) => {
+    res.render('about.pug');
+})
+
 //Starting the app on port 3000
 app.listen(3000, () => {
     console.log('App listening on port 3000');
