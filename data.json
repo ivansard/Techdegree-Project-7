@@ -8,9 +8,61 @@
             "live_link": "",
             "github_link": "https://github.com/ivansard/Techdegree-Project-4",
             "image_urls": [
-                "images/Ivan Sardelic",
-                "images/Project1 - (1200-500)",
-                "images/Project4 - (1200-500)"
+                "../images/ivan_sardelic.png",
+                "../images/project1(1200_500)",
+                "../images/project4(1200_500)"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Tic-Tac-Toe",
+            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
+            "image_urls": [
+                "../images/ivan_sardelic.png",
+                "../images/project1(1200_500)",
+                "../images/project4(1200_500)"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Tic-Tac-Toe",
+            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
+            "image_urls": [
+                "../images/ivan_sardelic.png",
+                "../images/project1(1200_500)",
+                "../images/project4(1200_500)"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Tic-Tac-Toe",
+            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
+            "image_urls": [
+                "../images/ivan_sardelic.png",
+                "../images/project1(1200_500)",
+                "../images/project4(1200_500)"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Tic-Tac-Toe",
+            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "technologies": ["JavaScript, HTML, CSS"],
+            "live_link": "",
+            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
+            "image_urls": [
+                "../images/ivan_sardelic.png",
+                "../images/project1(1200_500)",
+                "../images/project4(1200_500)"
             ]
         }
     ]
