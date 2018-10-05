@@ -1,0 +1,23 @@
+{
+  "name": "techdegree-project-7",
+  "version": "1.0.0",
+  "description": "My seventh techdegree project - Personal portfolio static website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivansard/Techdegree-Project-7.git"
+  },
+  "author": "Ivan Sardelic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivansard/Techdegree-Project-7/issues"
+  },
+  "homepage": "https://github.com/ivansard/Techdegree-Project-7#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
