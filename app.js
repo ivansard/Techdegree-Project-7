@@ -16,12 +16,19 @@ const projects = data.projects;
 //Setting pug as the view engine
 app.set('view-engine', 'pug');
 
+const projectRouter = require('./routes/projects.js');
+
+app.use(projectRouter); 
+
+
+
 //Creating index route
 
 app.get('/', (req, res, next) => {
     res.render('index.pug', {projects: projects});
 })
 
+//Creating about route
 app.get('/about', (req, res, next) => {
     res.render('about.pug');
 })

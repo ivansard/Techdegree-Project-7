@@ -4,65 +4,65 @@
             "id": 0,
             "project_name": "Tic-Tac-Toe",
             "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
-            "technologies": ["JavaScript, HTML, CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
-            "image_urls": [
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "liveDemoLink": "",
+            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "imageUrls": [
                 "../images/ivan_sardelic.png",
-                "../images/project1(1200_500)",
-                "../images/project4(1200_500)"
+                "../images/project1(1200_500).jpg",
+                "../images/project4(1200_500).jpg"
             ]
         },
         {
             "id": 1,
             "project_name": "Tic-Tac-Toe",
             "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
-            "technologies": ["JavaScript, HTML, CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
-            "image_urls": [
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "liveDemoLink": "",
+            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "imageUrls": [
                 "../images/ivan_sardelic.png",
-                "../images/project1(1200_500)",
-                "../images/project4(1200_500)"
+                "../images/project1(1200_500).jpg",
+                "../images/project4(1200_500).jpg"
             ]
         },
         {
             "id": 2,
             "project_name": "Tic-Tac-Toe",
             "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
-            "technologies": ["JavaScript, HTML, CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
-            "image_urls": [
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "liveDemoLink": "",
+            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "imageUrls": [
                 "../images/ivan_sardelic.png",
-                "../images/project1(1200_500)",
-                "../images/project4(1200_500)"
+                "../images/project1(1200_500).jpg",
+                "../images/project4(1200_500).jpg"
             ]
         },
         {
             "id": 3,
             "project_name": "Tic-Tac-Toe",
             "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
-            "technologies": ["JavaScript, HTML, CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
-            "image_urls": [
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "liveDemoLink": "",
+            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "imageUrls": [
                 "../images/ivan_sardelic.png",
-                "../images/project1(1200_500)",
-                "../images/project4(1200_500)"
+                "../images/project1(1200_500).jpg",
+                "../images/project4(1200_500).jpg"
             ]
         },
         {
             "id": 4,
             "project_name": "Tic-Tac-Toe",
             "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
-            "technologies": ["JavaScript, HTML, CSS"],
-            "live_link": "",
-            "github_link": "https://github.com/ivansard/Techdegree-Project-4",
-            "image_urls": [
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "liveDemoLink": "",
+            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "imageUrls": [
                 "../images/ivan_sardelic.png",
-                "../images/project1(1200_500)",
-                "../images/project4(1200_500)"
+                "../images/project1(1200_500).jpg",
+                "../images/project4(1200_500).jpg"
             ]
         }
     ]
