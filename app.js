@@ -7,6 +7,8 @@ const app = express();
 
 //Adding body parser in order to be able to pass data in requests
 app.use(bodyParser.urlencoded({extended: false}));
+
+//Accessing the static server in order to serve images, css, and client-side js
 app.use('/static', express.static('public'));
 
 //Selecting the projects from the data file
@@ -17,21 +19,11 @@ const projects = data.projects;
 app.set('view-engine', 'pug');
 
 const projectRouter = require('./routes/projects.js');
+const mainRouter = require('./routes');
 
+app.use(mainRouter);
 app.use(projectRouter); 
 
-
-
-//Creating index route
-
-app.get('/', (req, res, next) => {
-    res.render('index.pug', {projects: projects});
-})
-
-//Creating about route
-app.get('/about', (req, res, next) => {
-    res.render('about.pug');
-})
 
 //Starting the app on port 3000
 app.listen(3000, () => {
