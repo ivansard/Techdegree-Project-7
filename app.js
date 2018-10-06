@@ -24,6 +24,16 @@ const mainRouter = require('./routes');
 app.use(mainRouter);
 app.use(projectRouter); 
 
+app.use((req, res, next) => {
+    const error = new Error('Not found');
+    error.statusCode = 404;
+    next(error);
+})
+
+app.use((err, req, res, next) => {
+    console.log(`A ${err.statusCode} has occured. ${err.message}`)
+    res.render('error.pug', {error: err});
+})
 
 //Starting the app on port 3000
 app.listen(3000, () => {

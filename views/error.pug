@@ -1,0 +1,10 @@
+extends layout.pug
+block content
+    .error-content
+        h1= `${error.message} - Status: ${error.statusCode}`
+        pre.stack-trace #{error.stack}
+        br
+        br
+        .portfolio-breadcrumb
+            a(href='/') ← Back
+        
