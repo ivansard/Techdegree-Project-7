@@ -2,11 +2,11 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "Tic-Tac-Toe",
-            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "project_name": "Random Quote Generator",
+            "description": "A simple generator of random quotes, one can alter the background color and quote on the click of a button",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "liveDemoLink": "",
-            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "githubLink": "https://github.com/ivansard/Techdegree-Project-1",
             "imageUrls": [
                 "../images/ivan_sardelic.png",
                 "../images/project1(1200_500).jpg",
@@ -15,11 +15,11 @@
         },
         {
             "id": 1,
-            "project_name": "Tic-Tac-Toe",
-            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "project_name": "Pagination & Content Filter",
+            "description": "Given an array of students, it was needed to generate pagination links and a search bar for users to be able to search through the given students",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "liveDemoLink": "",
-            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "githubLink": "https://github.com/ivansard/TechDegree-Project-2",
             "imageUrls": [
                 "../images/ivan_sardelic.png",
                 "../images/project1(1200_500).jpg",
@@ -28,11 +28,11 @@
         },
         {
             "id": 2,
-            "project_name": "Tic-Tac-Toe",
-            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
+            "project_name": "An Interactive Form",
+            "description": "A submition form for a fictional JS conference, which contains loads of validation checks within it, both on form submition, as well as real-time",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "liveDemoLink": "",
-            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "githubLink": "https://github.com/ivansard/TechDegree-Project-3",
             "imageUrls": [
                 "../images/ivan_sardelic.png",
                 "../images/project1(1200_500).jpg",
@@ -54,11 +54,11 @@
         },
         {
             "id": 4,
-            "project_name": "Tic-Tac-Toe",
-            "description": "A tic-tac-toe game, which can be played against the computer (1 player), or with someone (2 players)",
-            "technologies": ["JavaScript", "HTML", "CSS"],
+            "project_name": "Using a Public API to Create an Employee Directory",
+            "description": "After making an AJAX call to retrieve random employees from an API, a directory as well as individual employee cards must be generated on click",
+            "technologies": ["JavaScript", "HTML", "CSS", "AJAX"],
             "liveDemoLink": "",
-            "githubLink": "https://github.com/ivansard/Techdegree-Project-4",
+            "githubLink": "https://github.com/ivansard/TechDegree-Project-5",
             "imageUrls": [
                 "../images/ivan_sardelic.png",
                 "../images/project1(1200_500).jpg",
