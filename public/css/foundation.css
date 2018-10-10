@@ -4991,9 +4991,9 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: solid 4px #fefefe;
+  border: solid 1px #0c0c0c;
   border-radius: 0;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 5px -5px 3px rgba(0, 0, 0, 0.774);
   line-height: 0; }
 
 a.thumbnail {
